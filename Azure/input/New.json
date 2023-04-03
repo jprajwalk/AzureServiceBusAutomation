@@ -1,0 +1,34 @@
+{
+	"registration": [
+	{
+		"clientID": "",
+		"clientName": "store-feeder",
+		"endPointURL": "",
+		"subscription": [
+		{
+		"mailPieceId": "",
+		"carrierShortName": "",
+		"summary": {
+			"uniqueItemId": "",
+			"oneDBarcode": "",
+			"productId": "",
+			"productName": "",
+			"productDescription": "",
+			"productCategory": ""
+		
+				}, 
+		{
+		"mailPieceId": "",
+		"carrierShortName": "",
+		"summary": {
+				"uniqueItemId": "",
+				"oneDBarcode": "",
+				"productId": "",
+				"productName": "",
+				"productDescription": "",
+				"productCategory": ""
+					}
+		]
+	}],
+	
+}

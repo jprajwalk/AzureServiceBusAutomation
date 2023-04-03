@@ -1,0 +1,4 @@
+com\rmg\TestManager\BusManagerQueue.class
+com\rmg\TestManager\DeleteDLQ.class
+com\rmg\TestManager\BusManagerTopic.class
+com\rmg\TestManager\DeadLetterQueue.class

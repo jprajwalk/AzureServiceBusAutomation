@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="102094" started-at="2021-10-27T06:15:26Z" finished-at="2021-10-27T06:17:08Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="102094" started-at="2021-10-27T06:15:26Z" finished-at="2021-10-27T06:17:08Z">
+      <class name="com.azure.AppTest">
+        <test-method status="PASS" signature="azurTest()[pri:0, instance:com.azure.AppTest@5d624da6]" name="azurTest" duration-ms="102077" started-at="2021-10-27T06:15:26Z" finished-at="2021-10-27T06:17:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- azurTest -->
+      </class> <!-- com.azure.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
