@@ -60,7 +60,6 @@ public class DeadLetterQueue
 		//Printing / receiving the message into the console
 	      
 	   //System.out.printf(receiver.peekMessage().getBody().toString());
-s
 	}
 	
 	
